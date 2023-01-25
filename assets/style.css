@@ -1,0 +1,63 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 100vw;
+  height: 100vh;
+  background-repeat: none;
+  position: static;
+  background-image: url("./bliss\ full\ size.jpg");
+  /* background-size: c; */
+  object-fit: center;
+  background-repeat: no-repeat;
+}
+
+
+
+
+
+
+.pfp {
+  position: relative;
+  vertical-align: middle;
+  margin-left: auto;
+  margin-right: auto;
+  height: 400px;
+  width: 400px;
+  margin-bottom: 400px;
+
+
+}
+
+.profile {
+
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: bottom;
+}
+
+
+
+.container {
+  position: absolute;
+  padding-left: 500px;
+  padding-right: 500px;
+  margin-top: 400px;
+  padding-bottom: 250px;
+}
+
+.text-block {
+  position: absolute;
+  top: 33px;
+  right: 1px;
+  left: 5px;
+  background-color: none;
+  /* text-align: center; */
+  /*margin-top: 10px;*/
+  padding-left: 500px;
+  padding-right: 500px;
+}
+
+.figure {
+  position: relative;
+  align-items: left;
+}
