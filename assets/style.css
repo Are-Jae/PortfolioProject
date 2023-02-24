@@ -14,8 +14,10 @@ body {
 .pfp, header {
   position: relative;
   vertical-align: middle;
+ 
   height: 400px;
   width: 400px;
+  
   margin-bottom: 400px;
   display: flex;
   flex-direction: row;

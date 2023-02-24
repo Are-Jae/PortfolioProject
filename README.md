@@ -18,6 +18,8 @@ I would like to apply javascript to this webpage in order for it to be easier to
 
 I have my folder icons labeled and aligned how I want. I now need to add pagination so that my portfolio links to a second page instead of redirecting to the current landing page.
 
+I have gone back through and added the background image within my HTML and it is now displaying as I would like. Now I need t figure out how to re-align my folder icons and center the button that loads my bio. 
+
 ## Expected Behavior
 
 The webpage displays as a Windows 95 Desktop background with yellow icon folders embedded with links to my Github, portfolio and LinkedIn accounts. All icons will open in a new tab with the portfolio icon opening another page connected to my landing page with a Notepad image displaying links to my deployed webpages. The icons will have the name of each account listed underneath them (but they will not be hyperlinks). My profile picture will display at the top center of the page above my bio with a caption instructing user to "Click Here" wherein my bio will appear as a Notepad image with a brief introduction to myself.
