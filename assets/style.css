@@ -2,13 +2,14 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   width: 100vw;
   height: 100vh;
-  /*background: url("./bliss\ full\ size.jpg");*/
+  background: url("./bliss\ full\ size.jpg") no-repeat fixed center;
+  object-fit: scroll fill;
+  display: flex;
+  justify-content: center;
+} /*applies The Bliss img to entire webpage, centers img & keeps it static*/
 
-background: url("assets/bliss full size.jpg") no-repeat fixed center;
-object-fit: scroll fill;
-display: flex;
-justify-content: center;
 }
+
 
 
 
@@ -19,6 +20,11 @@ justify-content: center;
   height: 400px;
   width: 400px;
   
+
+  height: 400px;
+  width: 400px;
+  margin-bottom: 400px;
+
   display: flex;
   flex-direction: row;
   align-items: baseline;
@@ -26,7 +32,6 @@ justify-content: center;
  
 
 
-}
 
 
 
@@ -42,9 +47,9 @@ justify-content: center;
 
 .text-block {
   position: absolute;
-  top: 33px;
-  right: 1px;
-  left: 5px;
+  top: 25px;
+  right: 12px;
+  left: 2px;
   background-color: none;
   text-align: center;
   margin-top: 10px;
